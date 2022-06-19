@@ -1,0 +1,112 @@
+{
+    "vehicles": [
+        {
+            "vehicleId": 2,
+            "number": "AB-12 3456",
+            "name": "Honda CR-V",
+            "imageUrl": "https://www.drivespark.com/car-image/640x480x100/car/x26014750-honda_cr_v.jpg.pagespeed.ic.wNrXOIXOtG.jpg",
+            "type": "deisel",
+            "insuranceExpiryDate": "2019-12-15",
+            "lastServiceDate": "2018-05-18",
+            "serviceDueDate": "2019-12-22",
+            "availability": true,
+            "price": 50.0
+        },
+        {
+            "vehicleId": 12,
+            "number": "AB-12 CD 3456",
+            "name": "Honda City",
+            "imageUrl": "https://www.drivespark.com/car-image/640x480x100/car/x37642259-honda_city.jpg.pagespeed.ic.aXrbT1iSxi.jpg",
+            "type": "deisel",
+            "insuranceExpiryDate": "2019-12-15",
+            "lastServiceDate": "2018-05-18",
+            "serviceDueDate": "2019-12-22",
+            "availability": true,
+            "price": 50.0
+        },
+        {
+            "vehicleId": 22,
+            "number": "CD-12 EF 3456",
+            "name": "Tata Nexon",
+            "imageUrl": "https://www.drivespark.com/car-image/640x480x100/car/x29572276-tata_nexon.jpg.pagespeed.ic.sZjCcT2Ue3.jpg",
+            "type": "deisel",
+            "insuranceExpiryDate": "2019-12-15",
+            "lastServiceDate": "2018-05-18",
+            "serviceDueDate": "2019-12-22",
+            "availability": true,
+            "price": 50.0
+        },
+        {
+            "vehicleId": 32,
+            "number": "AB-12 CD 3457",
+            "name": "Hyundai Aura",
+            "imageUrl": "https://www.drivespark.com/car-image/640x480x100/car/x33684270-hyundai_aura.jpg.pagespeed.ic.EM4w1tQd7l.jpg",
+            "type": "diesel",
+            "insuranceExpiryDate": "2020-10-14",
+            "lastServiceDate": "2020-06-29",
+            "serviceDueDate": "2020-07-31",
+            "availability": true,
+            "price": 100.0
+        },
+        {
+            "vehicleId": 52,
+            "number": "AB-12 4567",
+            "name": "Ford Ecosport",
+            "imageUrl": "https://www.drivespark.com/car-image/640x480x100/car/x1805527-ford_ecosport.jpg.pagespeed.ic.ZIuYMEYZqo.jpg",
+            "type": "petrol",
+            "insuranceExpiryDate": "2020-07-12",
+            "lastServiceDate": "2020-04-01",
+            "serviceDueDate": "2020-07-11",
+            "availability": true,
+            "price": 100.0
+        },
+        {
+            "vehicleId": 62,
+            "number": "AB-12 5678",
+            "name": "Mahindra Scorpio",
+            "imageUrl": "https://www.drivespark.com/car-image/640x480x100/car/x43843088-mahindra_scorpio.jpg.pagespeed.ic.8KGbNLiLSI.jpg",
+            "type": "petrol",
+            "insuranceExpiryDate": "2020-07-31",
+            "lastServiceDate": "2020-04-30",
+            "serviceDueDate": "2020-07-12",
+            "availability": true,
+            "price": 220.0
+        },
+        {
+            "vehicleId": 72,
+            "number": "AB-12 6789",
+            "name": "Innova Crysta",
+            "imageUrl": "https://www.drivespark.com/car-image/640x480x100/car/x12344573-toyota_innova_crysta.jpg.pagespeed.ic.9BH7AyyZw7.jpg",
+            "type": "diesel",
+            "insuranceExpiryDate": "2020-10-31",
+            "lastServiceDate": "2020-04-01",
+            "serviceDueDate": "2020-09-02",
+            "availability": true,
+            "price": 350.0
+        },
+        {
+            "vehicleId": 82,
+            "number": "AB-12 3458",
+            "name": "Maruti Suzuki Swift  ",
+            "imageUrl": "https://www.drivespark.com/car-image/640x480x100/car/x8602019-maruti_swift.jpg.pagespeed.ic.Fr2686hpg0.jpg",
+            "type": "petrol",
+            "insuranceExpiryDate": "2020-11-06",
+            "lastServiceDate": "2020-02-28",
+            "serviceDueDate": "2021-01-28",
+            "availability": true,
+            "price": 200.0
+        },
+        {
+            "vehicleId": 92,
+            "number": "AB-12 3457",
+            "name": "Renault Triber",
+            "imageUrl": "https://www.drivespark.com/car-image/640x480x100/car/x30811513-renault_triber.jpg.pagespeed.ic.NgzBRHNOr7.jpg",
+            "type": "petrol",
+            "insuranceExpiryDate": "2021-03-27",
+            "lastServiceDate": "2020-06-21",
+            "serviceDueDate": "2021-01-23",
+            "availability": true,
+            "price": 254.0
+        }
+    ]
+}
